@@ -4,7 +4,7 @@
 #### Database: Microsoft SQL, PostgreSQL
 
 ## Education
-- B.S., Computer Science | Ghulam Ishaq Khan Institute (_August 2019_)
+- B.S. in Computer Science | Ghulam Ishaq Khan Institute (_August 2019_)
 
 ## Work Experience
 **Business Manager | Mehboob Scales (_March 2021 - Present_)**
@@ -52,5 +52,5 @@ goals and objectives
 1. Data Engineering for Beginners: Learn SQL, Python and Spark (UDEMY) (_2025_)
 2. Introduction to Generative AI from Google (_2025_)
 3. Prompt Design in Vertex AI from Google (_2025_)
-4. Silver Medal | Open House '19 FYP (_2019_)
+4. Silver Medal Open House '19 FYP (_2019_)
 5. High Achievers Award in Academics (_2015_)
