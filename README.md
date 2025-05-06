@@ -1,7 +1,6 @@
 # Software Engineer
 
-#### Frontend and Backend: Python, C++, X++, HTML, CSS, Javascript
-#### Database: Microsoft SQL, PostgreSQL
+#### Skills: Python, C++, X++, HTML, CSS, Javascript, Microsoft SQL, PostgreSQL 
 ##### Multan, PK 60000|| +923054602778 || hamzafarrukh997@gmail.com
 
 ## Education
