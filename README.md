@@ -2,6 +2,7 @@
 
 #### Frontend and Backend: Python, C++, X++, HTML, CSS, Javascript
 #### Database: Microsoft SQL, PostgreSQL
+##### Multan, PK 60000|| +923054602778 || hamzafarrukh997@gmail.com
 
 ## Education
 - B.S. in Computer Science | Ghulam Ishaq Khan Institute (_August 2019_)
